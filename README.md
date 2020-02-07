@@ -49,7 +49,7 @@ scrapeKit.geo.unset();
 
 ### Set Proxy
 
-Set an HTTP/HTTPS proxy with authorizationL
+Set an HTTP/HTTPS proxy with authorization.
 
 ```javascript
 scrapeKit.proxy.set({
