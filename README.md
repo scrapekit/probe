@@ -1,5 +1,7 @@
 # ScrapeKit Probe
 
+![Probe Logo](/app/images/banner.png)
+
 This Chrome extension in a part of ScrapeKit Framework.
 
 It is meant to be used together with WebDriver to give your web scraper some extra features otherwise unavailable, such as mocking geolocation or setting proxy right from the web page context.
