@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "ScrapeKit Probe",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Scrapekit Assistant Extension",
+    "description": "The description of the application"
+  }
+}
